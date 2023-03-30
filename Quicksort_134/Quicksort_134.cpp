@@ -93,7 +93,7 @@ void q_short(int low, int high)
     q_short(low, j - 1);                                                    // Langkah algoritma No. 12
 
     // Sort the list on the right of pivot using quick sort
-    q_short(j + 1, high);                                                   // Langkah algoritma No. 13
+    q_short(j + 1, high);                                                   // Langkah algoritma No. 13 
 
 }
 
