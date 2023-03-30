@@ -20,7 +20,7 @@ void input() {
     }
 
     cout << "\n-------------------" << endl;
-    cout << "\nEnter Array Element" << endl;
+    cout << "\nEnter Array Element" << endl; 
     cout << "\n-------------------" << endl;
 
     for (int i = 0; i < n; i++)
@@ -31,7 +31,7 @@ void input() {
 }
 
 // swaps the element st index with the element at index y
-void swap(int x, int y)
+void swap(int x, int y) 
 {
     int temp;
 
